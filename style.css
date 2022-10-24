@@ -1,0 +1,28 @@
+#div{
+    background-color: rgba(0, 0, 0, 0.8);
+    position: absolute;
+    top: 19%;
+    left: 37%;
+    padding: 70px;
+    border-radius: 15px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;    
+}
+input{
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+}
+
+body{
+    background-color: rgb(120, 130, 130);
+    
+}
+button{
+    background-color: dodgerblue;
+    border: none;
+    padding: 10px;
+    border-radius: 7px;
+    width: 100%;
+    color: white;
+}
